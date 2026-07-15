@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![Azure](https://skillicons.dev/icons?i=azure) ![AWS](https://skillicons.dev/icons?i=aws) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Docker](https://skillicons.dev/icons?i=docker) ![Terraform](https://skillicons.dev/icons?i=terraform) ![GithubActions](https://skillicons.dev/icons?i=githubactions) ![Grafana](https://skillicons.dev/icons?i=grafana) ![Linux](https://skillicons.dev/icons?i=linux) ![Bash](https://skillicons.dev/icons?i=bash) ![Python](https://skillicons.dev/icons?i=python) ![Git](https://skillicons.dev/icons?i=git)
+![Azure](https://skillicons.dev/icons?i=azure) ![AWS](https://skillicons.dev/icons?i=aws) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Docker](https://skillicons.dev/icons?i=docker) ![Terraform](https://skillicons.dev/icons?i=terraform) ![GithubActions](https://skillicons.dev/icons?i=githubactions) ![Grafana](https://skillicons.dev/icons?i=grafana) ![Linux](https://skillicons.dev/icons?i=linux) ![Bash](https://skillicons.dev/icons?i=bash) ![Git](https://skillicons.dev/icons?i=git) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JS](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Nodejs](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Python](https://skillicons.dev/icons?i=python) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
 </div>
 
