@@ -10,7 +10,8 @@
 
 <a href="https://www.linkedin.com/in/saroj-devops/"> <img src="https://skillicons.dev/icons?i=linkedin" width="48" title="LinkedIn" /></a>
 <a href="mailto:sarojprajapat780@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" title="Email" />a>
-<a href="https://github.com/sarojprajapat"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/sarojprajapat">    <img src="https://skillicons.dev/icons?i=github" width="48" title="GitHub" />
+</a>
 
 </div>
 
