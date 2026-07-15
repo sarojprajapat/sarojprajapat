@@ -7,11 +7,6 @@
 </a>
 
 <br/>
-
-![MCA Student](https://img.shields.io/badge/MCA-2nd%20Year-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![Specialization](https://img.shields.io/badge/Specialization-Cloud%20%26%20DevOps-7C3AED?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Jaipur%2C%20Rajasthan%2C%20India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
-
 <br/>
 
 <a href="<!-- FILL: portfolio URL -->"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
@@ -28,17 +23,6 @@
 </div>
 
 <br/>
-
-## 🧠 About Me
-
-I'm a **second-year MCA student** specializing in **Cloud Computing & DevOps**, focused on building production-style infrastructure rather than just tutorials. My work centers on **GitOps workflows, container orchestration, Infrastructure as Code, and observability** — the same stack modern platform teams run in production.
-
-I don't just deploy apps — I design the pipeline that ships them: **Git commit → CI build/scan → GHCR → Argo CD sync → AKS → Prometheus/Grafana alerting**, with every failure debugged first-hand rather than copy-pasted.
-
-- 🔭 Currently building a **multi-cloud DevOps portfolio** (Azure live, AWS EKS in progress)
-- 🌱 Deepening expertise in **Kubernetes internals, Terraform modules, and cost-aware cloud architecture**
-- 🎯 **Open to:** Remote DevOps / Cloud Engineer / Site Reliability roles
-- 💬 Ask me about: **Kubernetes, Argo CD, Terraform, Azure, CI/CD pipelines**
 
 <br/>
 
@@ -58,17 +42,7 @@ I don't just deploy apps — I design the pipeline that ships them: **Git commit
 
 <br/>
 
-## ☁️ Cloud & DevOps Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| **GitOps & CD** | ⭐⭐⭐⭐☆ | Argo CD auto-sync, self-healing deployments, app-of-apps pattern |
-| **Container Orchestration** | ⭐⭐⭐⭐☆ | Kubernetes (AKS), Helm charts, rolling updates, resource limits |
-| **Infrastructure as Code** | ⭐⭐⭐⭐☆ | Terraform modules for AKS, VNet, Azure SQL, Blob Storage |
-| **CI/CD Pipelines** | ⭐⭐⭐⭐☆ | GitHub Actions, image build → Trivy scan → GHCR push |
-| **Observability** | ⭐⭐⭐☆☆ | Prometheus metrics, Grafana dashboards, alerting rules |
-| **Cloud Platforms** | ⭐⭐⭐☆☆ | Azure (AKS, App Service, SQL, Traffic Manager) — AWS (EKS) in progress |
-
+\
 <br/>
 
 ## 🚀 Featured Projects
@@ -111,54 +85,16 @@ A highly available web application architected across two Azure regions for resi
 
 <br/>
 
-## 🎓 Academic & Project Experience
-
-**MCA — Cloud & DevOps Specialization**
-*2nd Year, In Progress*
-
-- Building production-style cloud infrastructure projects beyond coursework
-- Hands-on with Azure (primary) and AWS (in progress) for multi-cloud credibility
-- Self-directed learning across Kubernetes, Terraform, and CI/CD tooling
-`Azure` `Kubernetes` `Terraform` `CI/CD` `GitOps`
-
 <br/>
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| <!-- FILL --> | <!-- FILL --> |
 
 </div>
 
 <br/>
 
-## 📜 Certifications
-
-**Microsoft Azure**
-<!-- FILL: e.g. ![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) -->
-
-**AWS**
-<!-- FILL -->
-
-**NPTEL**
-<!-- FILL -->
-
-**Cisco**
-<!-- FILL -->
 
 <br/>
 
-## 💻 Coding Profiles
 
-<p>
-<a href="<!-- FILL: LeetCode URL -->"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="<!-- FILL: GFG URL -->"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="<!-- FILL: HackerRank URL -->"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="<!-- FILL: CodeChef URL -->"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-</p>
 
 <br/>
 
@@ -173,11 +109,7 @@ A highly available web application architected across two Azure regions for resi
 
 </div>
 
-## 🏅 GitHub Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sarojprajapat&theme=algolia&no-frame=true&row=1&column=6" />
-</div>
 
 ## 📈 Contribution Activity
 
@@ -193,26 +125,7 @@ A highly available web application architected across two Azure regions for resi
 
 <br/>
 
-## 🎯 Current Focus
 
-```yaml
-learning:
-  - Advanced Kubernetes (RBAC, Operators, Autoscaling)
-  - Terraform for AWS (EKS)
-  - SRE & Observability practices
-
-building:
-  - AWS EKS + Terraform multi-cloud version of GitOps platform
-  - Deeper Prometheus alerting & Grafana dashboards
-
-exploring:
-  - Service Mesh (Istio/Linkerd)
-  - Cost optimization in multi-cloud environments
-
-open_to:
-  - Remote DevOps / Cloud Engineer roles
-  - SRE / Platform Engineering opportunities
-```
 
 <br/>
 
