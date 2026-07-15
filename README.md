@@ -3,7 +3,7 @@
 <h1>Hey there 👋</h1>
 
 <a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;Azure+%7C+Kubernetes+%7C+Terraform;Building+GitOps+%26+CI%2FCD+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;Azure+%7C+Kubernetes+%7C+Terraform;" alt="Typing SVG" />
 </a>
 
 <br/><br/>
